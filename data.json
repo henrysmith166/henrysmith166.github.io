@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Thunderbolt Express",
+    "queueTime": 45,
+    "type": "Speed"
+  },
+  {
+    "name": "Whirlwind Coaster",
+    "queueTime": 30,
+    "type": "Inverted"
+  },
+  {
+    "name": "Adventure River",
+    "queueTime": 20,
+    "type": "Family"
+  },
+  {
+    "name": "Cosmic Battle",
+    "queueTime": 60,
+    "type": "Interactive"
+  },
+  {
+    "name": "Dragon's Fury",
+    "queueTime": 50,
+    "type": "Speed"
+  },
+  {
+    "name": "Sky Twister",
+    "queueTime": 25,
+    "type": "Inverted"
+  },
+  {
+    "name": "Fantasy Carousel",
+    "queueTime": 10,
+    "type": "Family"
+  },
+  {
+    "name": "Laser Quest",
+    "queueTime": 35,
+    "type": "Interactive"
+  },
+  {
+    "name": "Hurricane Spin",
+    "queueTime": 40,
+    "type": "Speed"
+  },
+  {
+    "name": "Jungle Safari",
+    "queueTime": 15,
+    "type": "Family"
+  }
+]
