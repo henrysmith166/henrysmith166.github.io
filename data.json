@@ -2,51 +2,61 @@
   {
     "name": "Thunderbolt Express",
     "queueTime": 45,
-    "type": "Speed"
+    "type": "Speed",
+    "image": "https://henrysmith166.github.io/assets/thunder.jpg"
   },
   {
     "name": "Whirlwind Coaster",
     "queueTime": 30,
-    "type": "Inverted"
+    "type": "Inverted",
+    "image": "https://henrysmith166.github.io/assets/whirlwind.jpg"
   },
   {
     "name": "Adventure River",
     "queueTime": 20,
-    "type": "Family"
+    "type": "Family",
+    "image": "https://henrysmith166.github.io/assets/river.jpg"
   },
   {
     "name": "Cosmic Battle",
     "queueTime": 60,
-    "type": "Interactive"
+    "type": "Interactive",
+    "image": "https://henrysmith166.github.io/assets/cosmic.jpg"
   },
   {
     "name": "Dragon's Fury",
     "queueTime": 50,
-    "type": "Speed"
+    "type": "Speed",
+    "image": "https://henrysmith166.github.io/assets/dragon.jpg"
   },
   {
     "name": "Sky Twister",
     "queueTime": 25,
-    "type": "Inverted"
+    "type": "Inverted",
+    "image": "https://henrysmith166.github.io/assets/twister.jpg"
   },
   {
     "name": "Fantasy Carousel",
     "queueTime": 10,
-    "type": "Family"
+    "type": "Family",
+    "image": "https://henrysmith166.github.io/assets/carousel.jpg"
   },
   {
     "name": "Laser Quest",
     "queueTime": 35,
-    "type": "Interactive"
+    "type": "Interactive",
+    "image": "https://henrysmith166.github.io/assets/laser.jpg"
   },
   {
     "name": "Hurricane Spin",
     "queueTime": 40,
-    "type": "Speed"
+    "type": "Speed",
+    "image": "https://henrysmith166.github.io/assets/hurricane.jpg"
   },
   {
     "name": "Jungle Safari",
     "queueTime": 15,
-    "type": "Family"
+    "type": "Family",
+    "image": "https://henrysmith166.github.io/assets/jungle.jpg"
   }
 ]
